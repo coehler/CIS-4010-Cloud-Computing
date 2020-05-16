@@ -1,0 +1,5 @@
+Instance,Docker Image Name,Background
+Demo-EC2-Amazon-Linux-01,golang,Y
+Demo-EC2-Amazon-Linux-01,gcc,Y
+Demo-EC2-Ubuntu-Server-01,golang,Y
+Demo-EC2-Ubuntu-Server-01,gcc,Y

@@ -1,0 +1,5 @@
+Instance,Docker Image Name,Background,Key File
+Demo-AVM-Ubuntu-Server,swift,Y,Demo-AVM-Key-A
+Demo-AVM-Ubuntu-Server,julia,Y,Demo-AVM-Key-A
+Demo-AVM-Debian,swift,Y,Demo-AVM-Key-B
+Demo-AVM-Debian,julia,Y,Demo-AVM-Key-B

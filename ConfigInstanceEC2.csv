@@ -1,0 +1,3 @@
+Instance,VM Name,VM Size,Storage,Storage Type,Storage Size,Key File
+Demo-EC2-Amazon-Linux-01,ami-0e38b48473ea57778,t2.micro,Y,EBS,8,Demo-EC2-Key-A
+Demo-EC2-Ubuntu-Server-01,ami-0fc20dd1da406780b,t2.micro,Y,EBS,8,Demo-EC2-Key-B

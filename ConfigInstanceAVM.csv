@@ -1,0 +1,3 @@
+Instance,VM Name,VM Size,Key File
+Demo-AVM-Ubuntu-Server,UbuntuLTS,Standard_B1ls,Demo-AVM-Key-A
+Demo-AVM-Debian,Debian,Standard_B1ls,Demo-AVM-Key-B
